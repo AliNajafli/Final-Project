@@ -1,0 +1,4 @@
+app.pem
+Terraform/init.tf
+venv
+.vscode
